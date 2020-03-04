@@ -1,0 +1,38 @@
+{
+  "build": {
+    "content":
+      [
+        {
+          "files": [
+            "**/**.md", 
+            "**/toc.yml"
+          ],
+          "exclude": [
+            "**/obj/**", 
+            "**/includes/**",
+            "**/_themes/**", 
+            "**/_themes.pdf/**"
+          ]
+        }
+      ],
+    "resource": [
+        {
+          "files": [
+            "**/images/**",
+            "**/**.html",
+            "**/media/**"
+          ]
+        }
+    ],
+    "globalMetadata": {
+        "ROBOTS": "NOINDEX, NOFOLLOW",
+        "ms.sitesec": "library",
+        "breadcrumb_path": "/opsdocs/breadcrumb/toc.json",
+        "titleSuffix": "OPS"
+    },
+    "externalReference": [
+    ],
+    "template": "op.html",
+    "dest": "opsdocs"
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "build_entry_point": "",
+    "package_version": "",
+    "git_repository_url_open_to_public_contributors": "",
+    "notification_subscribers": ["OPBuild@microsoft.com"],
+    "report_severity_level": "Verbose",
+    "need_generate_intellisense": true,
+    "need_preview_pull_request": true,
+    "docsets_to_publish": [
+        {
+            "docset_name": "openpublishingdocs",
+            "build_output_subfolder": "openpublishing/docs",
+            "build_source_folder": "",
+            "build_entry_point": "",
+            "version": 0,
+            "locale": "en-us",
+            "open_to_public_contributors": "false",
+            "type_mapping": {
+                "Conceptual": "Content",
+                "ManagedReference": "Content",
+                "RestApi": "Content"
+            }
+        }
+    ],
+    "branch_target_mapping": 
+    {
+    "live": ["Publish", "Pdf"]
+    },
+    "need_generate_pdf_url_template": true
+
+}

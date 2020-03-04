@@ -1,0 +1,10 @@
+- name: OPS documentation
+  tocHref: /opsdocs/
+  topicHref: /opsdocs/index
+  items:
+  - name: Engineering documentation
+    tocHref: /opsdocs/engdocs/
+    topicHref: /opsdocs/engdocs/open-publish-design
+  - name: Specs
+    tocHref: /opsdocs/specdocs/
+    topicHref: /opsdocs/specdocs/index
