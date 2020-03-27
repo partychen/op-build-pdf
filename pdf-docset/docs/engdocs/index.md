@@ -2,7 +2,7 @@
 
 ### zh-cn: 我们为了测试中文字体所以加了这两行
 ### de-de: Abrechnungsmodell für Azure Active Directory B2C
-### ko-kr: Azure Active Directory B2C에 대 한 청구 모델
+### ko-kr: Microsoft Azure의 오픈 소스 설명서에 오신 것을 환영합니다.
 ### zh-tw: Azure Active Directory B2C 的計費模型
 ### ja-jp: Azure Active Directory B2C の課金モデル
 ### tr-tr: Azure Active Directory B2C için faturalandırma modeli bağlantılı bir 
