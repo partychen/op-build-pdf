@@ -2,6 +2,7 @@ Open Publishing Build Design Memo
 =================================
 
 1. Scope
+2. 为了测试中文，所以在这里加了两行
 --------
 
 A complete open publishing scenario consists of the following parts:
