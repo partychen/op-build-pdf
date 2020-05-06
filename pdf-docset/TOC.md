@@ -11,6 +11,5 @@
 ## [Workaround for LSI](workaround_for_LSI.md)
 ## [Rollback Process](rollback_process.md)
 ## [OPS metadata generated in DocFX plugins](ops-metadata-generated-in-DocFX-plugin.md)
-## [Sync between repos](../partnerdocs/syncing-repos.md)
 ## [Sync workflow](syncing-workflow.md)
 ## [How to get op build token](how_to_get_op_build_token.md)
