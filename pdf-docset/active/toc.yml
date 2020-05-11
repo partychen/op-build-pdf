@@ -1,0 +1,49 @@
+- name: Contoso Documentation
+  href: index.md
+- name: Overview
+  items:
+  - name: About The Contoso Platform
+    href: overview.md
+- name: Quickstarts
+  expanded: true
+  items:
+  - name: Quick Start 1
+    href: quickstarts/quick-start-1.md
+  - name: Quick Start 2
+    href: quickstarts/quick-start-2.md
+- name: Tutorials
+  items:
+  - name: 1 - Tutorial
+    href: tutorials/tutorial-1.md
+  - name: 2 - Tutorial
+    href: tutorials/tutorial-2.md
+- name: Samples
+  items:
+  - name: Sample 1
+    href: samples/sample-1.md
+  - name: Sample 2
+    href: samples/sample-2.md
+- name: Concepts
+  items:
+  - name: Concept 1
+    href: concepts/concept-1.md
+  - name: Concept 2
+    href: concepts/concept-2.md
+  - name: Sub Concepts
+    items:
+    - name: Sub Concept 1
+      href: concepts/sub-concepts/sub-concept-1.md
+    - name: Sub Concept 2
+      href: concepts/sub-concepts/sub-concept-2.md
+- name: Reference
+  items:
+  - name: Reference 1
+    href: reference/reference-1.md
+  - name: Reference 2
+    href: reference/reference-2.md
+- name: Resources
+  items:
+  - name: Resource 1
+    href: resources/resource-1.md
+  - name: Resource 2
+    href: resources/resource-2.md
