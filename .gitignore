@@ -4,5 +4,7 @@ _site/
 .optemp/
 _themes*/
 _repo.*/
+_cache/
+_repo_cache/
 
 .openpublishing.buildcore.ps1
