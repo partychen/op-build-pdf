@@ -77,11 +77,11 @@
     "groups": {
       "legacy": {
         "dest": "legacy",
-        "moniker_range": "< contososerver-2.0"
+        "moniker_range": "<= contososerver-2.0"
       }, 
       "active": {
         "dest": "active",
-        "moniker_range": ">= contososerver-2.0 || >= contosoclient-1.0"
+        "moniker_range": "> contososerver-2.0 || >= contosoclient-1.0"
       }
     },
     "markdownEngineName": "markdig"
