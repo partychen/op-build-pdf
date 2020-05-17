@@ -11,9 +11,9 @@ Fallback for any legacy items that are not specifically called out in the legacy
 
 > Choose Contoso Server 2.0 to see content below
 
-::: moniker range="contososerver-2.0"
+::: moniker range="contososerver-2.1"
 
-* contososerver-2.0
+* contososerver-2.1
 
 ::: moniker-end
 

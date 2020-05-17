@@ -11,18 +11,18 @@ This Overview should display for the following monikers:
 * `contosoclient-1.0`
 * `contosoclient-2.0`
 
-::: moniker range="contososerver-2.0"
+::: moniker range="contososerver-2.1"
 
 * [contoso server](#contoso-server)
 * [contoso server 2.0](#contoso-server-20)
 
 ## Contoso Server
 
-This region applies only to `contososerver-2.0`.
+This region applies only to `contososerver-2.1`.
 
 ## Contoso Server 2.0
 
-This region applies only to `contososerver-2.0`.
+This region applies only to `contososerver-2.1`.
 
 ::: moniker-end
 
